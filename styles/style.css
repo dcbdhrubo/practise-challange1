@@ -170,7 +170,7 @@
     width: 750px;
     height: 200px;
     background-color: pink;
-    background-image: url("images/watch.png");
+    background-image: url("../images/watch.png");
     background-size: cover;
     background-position:center;
     margin-left: 130px;
