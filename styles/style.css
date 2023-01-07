@@ -67,7 +67,7 @@
 .banner-continer{
     height: 70vh;
     width: 100%;
-    background-image: url("/images/banner2.png");
+    background-image: url("images/banner2.png");
     background-size: cover;
     margin-top: 10px;
     box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.3);
@@ -162,7 +162,7 @@
     width: 750px;
     height: 200px;
     background-color: pink;
-    background-image: url("/images/watch.png");
+    background-image: url("//images/watch.png");
     background-size: cover;
     background-position:center;
     margin-left: 130px;
